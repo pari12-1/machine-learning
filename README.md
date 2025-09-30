@@ -38,7 +38,3 @@ Install dependencies with:
 ```bash
 pip install pandas numpy scikit-learn
 ```
-
-
-
-## 📊 Sample Output
